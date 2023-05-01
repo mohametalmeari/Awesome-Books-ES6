@@ -71,7 +71,7 @@
 
 > Open the link bellow:
 
- - [Live Demo Link](https://mohametalmeari.github.io/Awesome-Books/)
+ - [Live Demo Link](https://mohametalmeari.github.io/Awsome-Books-ES6/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
