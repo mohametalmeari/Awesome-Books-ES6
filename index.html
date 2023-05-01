@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Awesome Books</title>
+    <link rel="stylesheet" href="./index.css">
+    <link href='https://fonts.googleapis.com/css?family=Amaranth' rel='stylesheet'>
+</head>
+<body>
+    
+    <nav>
+        <h1>Awesome Books</h1>
+        <ul>
+            <li><a class="list-link link" href="#">List</a></li> |
+            <li><a class="add-link link" href="#">Add new</a></li> |
+            <li><a class="contact-link link" href="#">Contact</a></li> 
+        </ul>
+    </nav>
+    <p class="date">current date is here ... </p>
+    <div class="container">
+        <section class="list-section section">
+            <h2>All awesome books</h2>
+            <div id="list-container">
+                <!-- Book List is genratered here -->
+            </div>
+            <p id="no-books">No books available</p>
+        </section>
+        <section class="add-section section">
+            <h2>Add a new book</h2>
+            <form id="add-book">
+                <label>
+                    <input id="title-field" type="text" placeholder="Title" required></label>
+                </label>
+                <label>
+                    <input id="author-field" type="text" placeholder="Author" required></label>
+                </label>
+                <button id="add-btn">Add</button>
+            </form>
+        </section>
+        <section class="contact-section section">
+            <h2>Contact information</h2>
+            <p>Do you have any question or you just want to say "Hello"? <br>
+            You can reach out to us!</p>
+            <ul>
+                <li>Our e-mail: mohamet.almeari@gmail.com</li>
+                <li>Our phone number: 009505522753350</li>
+                <li>Our address: Istanbul Turkey</li>
+            </ul>
+        </section>
+    </div>
+
+    <footer>
+        Copyright ...
+    </footer>
+
+
+    <script type="module" src="./index.js"></script>
+</body>
+</html>
