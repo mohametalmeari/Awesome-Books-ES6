@@ -1,6 +1,6 @@
 import { navigate, links } from './modules/nav.js';
 import CheckAvialability from './modules/avialability.js';
-import { DateTime } from './modules/luxon.js';
+import { DateTime } from './luxon.js';
 
 const listContainer = document.getElementById('list-container');
 const addBtn = document.querySelector('#add-btn');
