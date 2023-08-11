@@ -23,13 +23,12 @@
   - [Prerequisites](#prerequisites)
   - [Install](#install)
   - [Usage](#usage)
-  - [Run tests](#run-tests)
   - [Deployment](#triangular_flag_on_post-deployment)
 - [👥 Authors](#authors)
 - [🔭 Future Features](#future-features)
 - [🤝 Contributing](#contributing)
 - [⭐️ Show your support](#support)
-- [🙏 Acknowlednpments](#acknowlednpments)
+- [🙏 Acknowledgements](#acknowlednpments)
 - [❓ FAQ (OPTIONAL)](#faq)
 - [📝 License](#license)
 
@@ -75,6 +74,14 @@
 
 To get a local copy up and running, follow these steps.
 
+### Prerequisites
+
+In order to run this project you need:
+
+```sh
+ npm install
+```
+
 ### Setup
 
 Clone this repository to your desired folder:
@@ -89,6 +96,9 @@ Clone this repository to your desired folder:
 How to open your project in the browser? 
 Double click on the index.html file and the website will be open in your browser.
 
+### Deployment
+
+You can deploy this project using GitHup Pages
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -138,7 +148,7 @@ We invite you to share this project with others and provide a favorable review i
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-> The original design idea for this web page was created Microverse Team.
+> The original design idea of this website was created Microverse Team.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
