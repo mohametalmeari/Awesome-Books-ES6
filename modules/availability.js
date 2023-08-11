@@ -1,6 +1,6 @@
 const noBooks = document.getElementById('no-books');
 let bks = [];
-const CheckAvialability = () => {
+const CheckAvailability = () => {
   if (localStorage.getItem('books') !== null) {
     bks = JSON.parse(localStorage.getItem('books'));
   }
@@ -10,4 +10,4 @@ const CheckAvialability = () => {
     noBooks.style.display = 'none';
   }
 };
-export default CheckAvialability;
+export default CheckAvailability;

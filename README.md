@@ -5,7 +5,7 @@
   <img src="images\large_logo.png" alt="logo" width="140"  height="auto" />
   <br/>
 
-  <h3><b>Awsome Books README</b></h3>
+  <h3><b>Awesome Books - README</b></h3>
 
 </div>
 
@@ -35,15 +35,13 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 Awsome Books <a name="about-project"></a>
+# 📖 Awesome Books <a name="about-project"></a>
 
-**Awsome Books** A Books Library that use local storage to save your favorite books.
+**Awesome Books Website** is a books library that uses local storage to preserve and keep track of your favorite books.
 
 ## 🛠 Built With <a name="built-with"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
-
-> Our tech stack consisting of HTML, CSS and JavaScript for the front-end.
 
 <details>
   <summary>Client</summary>
@@ -57,11 +55,9 @@
 
 ### Key Features <a name="key-features"></a>
 
-> Key Features of Awesome Books Website
-
 - **Add New Books**
-- **Diplay Saved Books**
-- **Delete Unwatned Books**
+- **Display Saved Books**
+- **Delete Unwanted Books**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -69,9 +65,7 @@
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-> Open the link bellow:
-
- - [Live Demo Link](https://mohametalmeari.github.io/Awsome-Books-ES6/)
+ - [Live Demo Link](https://mohametalmeari.github.io/Awesome-Books-ES6/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -79,10 +73,7 @@
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
-> A new developer can use this project as a guide to creating a library.
-
 To get a local copy up and running, follow these steps.
-
 
 ### Setup
 
@@ -90,13 +81,13 @@ Clone this repository to your desired folder:
 
 ```sh
   cd my-folder
-  git clone git@github.com:mohametalmeari/Awesome-Books.git
+  git clone https://github.com/mohametalmeari/Awesome-Books.git
 ```
 
 ### Usage
 
 How to open your project in the browser? 
-Double click on HTML file and the HTML file will be open in your browser.
+Double click on the index.html file and the website will be open in your browser.
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -105,13 +96,11 @@ Double click on HTML file and the HTML file will be open in your browser.
 
 ## 👥 Authors <a name="authors"></a>
 
-> This project was done by Mohamad.
-
 👤 **Mohamad**
 
-- GitHub: [@githubhandle](https://github.com/mohametalmeari)
-- Twitter: [@twitterhandle](https://twitter.com/MohametAlmeari)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/mohamet-almeari)
+- GitHub: [@mohametalmeari](https://github.com/mohametalmeari)
+- Twitter: [@MohametAlmeari](https://twitter.com/MohametAlmeari)
+- LinkedIn: [mohamet-almeari](https://www.linkedin.com/in/mohamet-almeari)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -141,15 +130,13 @@ Feel free to check the [issues page](../../issues/).
 
 ## ⭐️ Show your support <a name="support"></a>
 
-> Share and Review!
-
 We invite you to share this project with others and provide a favorable review if you find it to be useful.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- ACKNOWLEDnpmENTS -->
+<!-- ACKNOWLEDGMENTS -->
 
-## 🙏 Acknowledgments <a name="acknowlednpments"></a>
+## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
 > The original design idea for this web page was created Microverse Team.
 

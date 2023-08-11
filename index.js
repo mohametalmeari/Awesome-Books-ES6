@@ -1,5 +1,5 @@
 import { navigate, links } from './modules/nav.js';
-import CheckAvialability from './modules/avialability.js';
+import CheckAvailability from './modules/availability.js';
 import { DateTime } from './luxon.js';
 
 const listContainer = document.getElementById('list-container');
@@ -18,7 +18,7 @@ const removeBook = (bookId) => {
   if (bookIndex !== -1) {
     books.splice(bookIndex, 1);
     localStorage.setItem('books', JSON.stringify(books));
-    CheckAvialability();
+    CheckAvailability();
     UpdateList();
   }
 };
@@ -54,12 +54,12 @@ const AddBook = () => {
     titleField.value = '';
     authorField.value = '';
     UpdateList();
-    CheckAvialability();
+    CheckAvailability();
     navigate(0);
   }
 };
 
-CheckAvialability();
+CheckAvailability();
 
 UpdateList();
 
